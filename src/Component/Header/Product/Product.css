@@ -1,0 +1,9 @@
+.Product{
+    display: flex;
+}
+.AddToCartBtn{
+    border-radius: 10px;
+    padding:5px;
+    width: 95px;
+    background-color:rgb(184, 110, 49);
+}

@@ -1,0 +1,13 @@
+.Shopping{
+    display: flex;
+    justify-content: space-between;
+}
+.product{
+    width: 70%;
+    background-color:rgb(202, 241, 165);
+    border-right: 2px solid gray;
+}
+.Order-Summery{
+    width: 30%;
+    background-color:rgb(238, 167, 167);
+}
